@@ -1,5 +1,8 @@
 # scramblies
 
+[![Build
+Status](https://travis-ci.org/manuel-uberti/scramblies.svg?branch=master)](https://travis-ci.org/manuel-uberti/scramblies)
+
 A Clojure and ClojureScript project to solve Scramblies.
 
 ## Usage
