@@ -5,6 +5,8 @@ Status](https://travis-ci.org/manuel-uberti/scramblies.svg?branch=master)](https
 
 A Clojure and ClojureScript project to solve Scramblies.
 
+![Screenshot](https://github.com/manuel-uberti/scramblies/blob/master/screenshot.png)
+
 ## Usage
 
 From the project root directory, run:
