@@ -1,5 +1,5 @@
 (ns scramblies.subs
-  (:require [re-frame.core :as rf])  
+  (:require [re-frame.core :as rf])
   (:require-macros [reagent.ratom :as r]))
 
 (rf/reg-sub
